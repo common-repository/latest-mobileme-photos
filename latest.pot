@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/latest-mobileme-photos\n"
+"POT-Creation-Date: 2009-01-19 20:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: latest.php:71
+msgid "MobileMe Username"
+msgstr ""
+
+#: latest.php:72
+msgid "Display Limit"
+msgstr ""
+
+#: latest.php:73
+msgid "Thumbnail Size"
+msgstr ""
+
+#: latest.php:74
+msgid "Update Frequency"
+msgstr ""
+
+#: latest.php:83
+msgid "Latest Photos"
+msgstr ""
+
+#: latest.php:127
+msgid "Error: Images could not be loaded."
+msgstr ""
